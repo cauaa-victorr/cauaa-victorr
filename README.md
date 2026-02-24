@@ -1,4 +1,4 @@
-### Olá, Eu sou o Cauã Victor 🤝
+### Olá, Eu sou o Cauã Victor e sou estudante de ciência da computação.🤝
 
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauaa_victorr/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cauã-victor-carvalho-dos-santos-2b0266232)
